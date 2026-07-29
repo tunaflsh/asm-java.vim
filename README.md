@@ -3,7 +3,7 @@ Vim syntax for java bytecode in OW2 ASM format.
 
 ## Disclaimer
 
-The syntax file is generated using GPT-5.6 Terra based on the work of https://github.com/mcgambing/Java-Bytecode
+The syntax file is generated using GPT-5.6 Terra based on https://github.com/mcgambing/Java-Bytecode
 
 ## TODO
 
